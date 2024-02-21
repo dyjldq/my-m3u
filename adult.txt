@@ -1,0 +1,2 @@
+Adult,#genre#
+Playlist,http://adultiptv.net/videos.m3u8
