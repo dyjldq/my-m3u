@@ -35,7 +35,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":0
-},
+}，
 {"key":"探探采集","name":"探探av","type":1,"searchable":0,"quickSearch":0,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="},
    {
     "key":"fhapi9",
@@ -226,15 +226,12 @@
       "searchable": 1
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    }
+      "key": "api.apilyzy.com",
+      "name": "成人62",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1
+    }，
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "lives": [{"group": "redirect","channels": [
