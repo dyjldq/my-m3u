@@ -10,17 +10,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
-
-
-
-{"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
-
-{"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
-
-{"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
-
-//{"key":"csp_XYQHikerAL_阿里云盘","name":"阿里云盘(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/阿里云盘.json"},
-
+  
 {"key":"4KHDR","name":"4KHDR(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/4KHDR.json"},
 
 {"key":"csp_YiSo_易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
@@ -43,7 +33,7 @@
 
 {"key":"csp_XYQBiu_云盘分享","name":"云盘分享","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./XYQBiu/云盘分享.json"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
+{"key":"push_agent","name":"推送"，"type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
 
 
