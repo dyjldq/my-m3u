@@ -6,3 +6,6 @@
 + https://github.com/Dong-learn9/TVBox-zyjk
 + https://github.com/gaotianliuyun/gao
 + https://github.com/koy1619/TVBOXZY
+
+
+adult-list是adult播放列表文件夹。
