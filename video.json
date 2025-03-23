@@ -1,10 +1,10 @@
 {
-    "spider": "http://dd.ma/CFlLnSbJ",
-    "wallpaper": "http://api.btstu.cn/sjbz",
-    "lives":[
-	    {"name":"SEX","type":0,"url":"https://github.740306.xyz/https://raw.githubusercontent.com/dyjldq/my-m3u/refs/heads/main/adult-list/SEX.txt"},
-            ]
-    "sites": [
+"spider": "http://dd.ma/CFlLnSbJ",
+"wallpaper": "http://api.btstu.cn/sjbz",
+"lives":[
+	{"name":"SEX","type":0,"url":"https://github.740306.xyz/https://raw.githubusercontent.com/dyjldq/my-m3u/refs/heads/main/adult-list/SEX.txt"},
+        ]
+"sites": [
         {
             "key": "jingpinx.com",
             "name": "精品",
@@ -217,7 +217,7 @@
             "filterable": 1
           }
     ],
-    "parses": [
+"parses": [
         {
             "name": "解析聚合",
             "type": 3,
@@ -986,7 +986,7 @@
             ]
         }
     ],
-    "flags": [
+ "flags": [
         "imgo",
         "youku",
         "qq",
@@ -1006,7 +1006,7 @@
         "bilibili",
         "renrenmi"
     ],
-    "hotSearch": [
+ "hotSearch": [
         {
             "name": "mobilesearch",
             "request": {
