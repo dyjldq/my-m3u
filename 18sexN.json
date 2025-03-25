@@ -2,15 +2,6 @@
   "spider": "https://github.740306.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
   "sites": [
     {
-      "key": "*博天堂",
-      "name": "🔞博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "美少女",
       "name": "🔞美少女",
       "type": 0,
