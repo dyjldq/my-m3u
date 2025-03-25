@@ -5,7 +5,8 @@
 + https://github.com/xfcjp/xfcjp.github.io/blob/master/adult.json
 + https://github.com/Dong-learn9/TVBox-zyjk
 + https://github.com/gaotianliuyun/gao
-+ https://github.com/koy1619/TVBOXZY
-
++ https://github.com/koy1619/TVBOXZ
 
 adult-list是adult播放列表文件夹。
+
+18秒exN.json,项目地址：https://github.com/bizhangjie/CatVodSpider/blob/main/json/18sexN.json
