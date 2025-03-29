@@ -49,10 +49,95 @@
   ],
   "sites": [
     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/duboku.json"
+    },
+    {
+      "key": "aoo.qoqoavideo2.sbs",
+      "name": "顶级国产",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 },
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://w15o.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
+        "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
+      },
+      "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
+    },
+    {
+      "key": "msv ",
+      "name": "美少女 ",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    },
+    {
+      "key": "ysj ",
+      "name": "饮水机 ",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    },
+    {
+      "key": "xne ",
+      "name": "香奶儿 ",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    },
+    {
+      "key": "bp ",
+      "name": "白嫖 ",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "caoliuzyw",
+      "name": "草榴",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "ikunzyapi",
       "name": "爱坤",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "feisuzyapi",
+      "name": "飞速",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "hav ",
+      "name": "黄艾薇 ",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php ",
       "searchable": 1,
       "changeable": 1
     },
@@ -65,6 +150,35 @@
       "changeable": 1
     },
     {
+      "key": "timizy",
+      "name": "甜蜜资源",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
       "key": "非凡",
       "name": "非凡",
       "type": 0,
@@ -74,6 +188,113 @@
       "categories": [
         "伦理片"
       ]
+    },
+    {
+      "key": "cat_js_18av",
+      "name": "🐱18av[CAT]",
+      "type": 3,
+      "api": "./18a_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cat_js_mt",
+      "name": "🐱蜜桃[CAT]",
+      "type": 3,
+      "api": "./mtsp_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lf_js_search",
+      "name": "搜索 | lf_search",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "./js/lf_search3_min.js"
+    },
+    {
+      "key": "lf_js_p2p",
+      "name": "磁力 | lf_p2p",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/lf_p2p2_min.js",
+      "ext": "18+"
+    },
+    {
+      "key": "csp_JavDb",
+      "name": "🧲JavDb",
+      "type": 3,
+      "api": "csp_JavDb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    },
+    {
+      "key": "Supjav",
+      "name": "Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1
+    },
+    {
+      "key": "51smt4.xyz",
+      "name": "成人01",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "jcspcj8.com",
+      "name": "成人02",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=videolist",
+      "searchable": 1
+    },
+    {
+      "key": "bttcj.com",
+      "name": "成人03",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1
+    },
+    {
+      "key": "cjmygzy.com",
+      "name": "成人04",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1
     },
     {
       "key": "91md.me",
