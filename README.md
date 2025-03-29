@@ -15,5 +15,5 @@ adult-list是adult播放列表文件夹。
 + CatVodSpider,项目地址：https://github.com/mymine/CatVodSpider
 + tvbox1/adult.json，项目地址:https://github.com/dyjldq/tvbox18/blob/main/adult.json
 
-教程地址：https://github.com/dyjldq/dlgt7-TVbox-interface/blob/main/%E7%8C%AB%E5%BD%B1%E8%A7%86%E9%87%87%E9%9B%86%E6%BA%90.json
+教程地址：https://github.com/dlgt7/TVbox-interface
 
