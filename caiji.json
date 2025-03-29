@@ -66,14 +66,6 @@
       "changeable": 1
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": "1"
-    },
-    {
       "key": "非凡",
       "name": "非凡",
       "type": 0,
@@ -85,87 +77,8 @@
       ]
     },
     {
-      "key": "cat_js_18av",
-      "name": "🐱18av[CAT]",
-      "type": 3,
-      "api": "./18a_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cat_js_mt",
-      "name": "🐱蜜桃[CAT]",
-      "type": 3,
-      "api": "./mtsp_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lf_js_search",
-      "name": "搜索 | lf_search",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "./js/lf_search3_min.js"
-    },
-    {
-      "key": "lf_js_p2p",
-      "name": "磁力 | lf_p2p",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/lf_p2p2_min.js",
-      "ext": "18+"
-    },
-    {
-      "key": "csp_JavDb",
-      "name": "🧲JavDb",
-      "type": 3,
-      "api": "csp_JavDb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-	  "style":{ "type":"rect", "ratio":1.33 }
-    },
-    {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-	  "style":{ "type":"rect", "ratio":1.33 }
-    },
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1
-    },
-    {
       "key": "91md.me",
-      "name": "成人05",
+      "name": "麻豆视频",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1
