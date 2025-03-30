@@ -1,5 +1,5 @@
 {
-    "spider": "http://刚刚.live/18.jar",
+    "spider": "https://raw.githubusercontent.com/shizi8402/TVbox-interface/refs/heads/main/20220803-18.jar",
     "sites": [
         {
             "key": "18",
