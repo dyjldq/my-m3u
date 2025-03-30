@@ -21,4 +21,6 @@ caiji和猫影视采集源：https://github.com/dlgt7/TVbox-interface
 
 cr.json:https://github.com/shiran588/TVBox/blob/main/cr.json
 
+cr多仓.txt：https://github.com/shiran588/TVBox/blob/main/cr%E5%A4%9A%E4%BB%93.txt
+
 20220803-18.txt：https://github.com/shizi8402/TVbox-interface/blob/main/20220803-18.txt
