@@ -1,0 +1,6 @@
+{"urls":
+[
+{"url":"https://github.740306.xyz/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/refs/heads/master/adult.json","name":"xfcjp_one"},
+
+]}
+
