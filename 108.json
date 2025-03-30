@@ -8,9 +8,6 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
     },
     {
       "key": "91md",
