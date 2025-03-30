@@ -11,6 +11,14 @@
       "filterable": 0
     },
     {
+      "key": "ikunzyapi",
+      "name": "爱坤",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "php_huaweiba",
       "name": "华为吧",
       "type": 4,
