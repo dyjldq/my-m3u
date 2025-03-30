@@ -20,3 +20,5 @@ adult-list是adult播放列表文件夹。
 caiji和猫影视采集源：https://github.com/dlgt7/TVbox-interface
 
 cr.json:https://github.com/shiran588/TVBox/blob/main/cr.json
+
+20220803-18.txt：https://github.com/shizi8402/TVbox-interface/blob/main/20220803-18.txt
